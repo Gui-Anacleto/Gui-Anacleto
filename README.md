@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=" ">
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src=" ">
 </div>
   
   ##
