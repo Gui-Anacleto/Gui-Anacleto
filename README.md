@@ -1,5 +1,5 @@
-### Hello my friend ! Eu sou o Guilherme Anacleto
-
+### Hello my friend ! Eu me chamo Guilherme Anacleto.
+ 
 <div align="center">
   <a href="https://github.com/Gui-Anacleto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui-Anacleto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
