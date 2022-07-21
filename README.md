@@ -16,21 +16,14 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 </div>
-
-  ##
-
-</div>  
-  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/999284104333885472/999467275474173952/pixel-jeff-matrix-s.gif">
-</div>
-  
+ 
   ##
  
 <div> 
   <a href="mailto:guilherme.anacleto@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-de-freitas-anacleto-750a12159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  
- 
+</div>
 
- 
+</div>  
+  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.discordapp.com/attachments/999284104333885472/999467275474173952/pixel-jeff-matrix-s.gif" width="100%">
 </div>
