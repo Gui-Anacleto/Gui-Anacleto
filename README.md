@@ -15,8 +15,12 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
+</div>
 
-  <img align="right" alt="gif" height="150" style="border-radius:50px;" src=" ">
+  ##
+
+</div>  
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/999284104333885472/999467275474173952/pixel-jeff-matrix-s.gif">
 </div>
   
   ##
