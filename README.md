@@ -1,4 +1,4 @@
-### Hello my friend ! Eu me chamo Guilherme Anacleto.
+### Hello, friend? Eu me chamo Guilherme Anacleto.
 
 
 
