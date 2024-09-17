@@ -19,6 +19,4 @@
   <a href="https://www.linkedin.com/in/guilherme-de-freitas-anacleto-750a12159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-</div>  
-  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.discordapp.com/attachments/999284104333885472/999467275474173952/pixel-jeff-matrix-s.gif" width="100%">
-</div>
+
